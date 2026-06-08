@@ -1,0 +1,38 @@
+date,event,theater,category,allied_outcome,note
+1939-09-01,Germany invades Poland,Europe,turning_point,defeat,War in Europe begins
+1939-09-03,Britain and France declare war on Germany,Diplomatic,political,context,Formal entry of Britain and France
+1940-04-09,Germany invades Denmark and Norway,Europe,battle,defeat,Scandinavian campaign
+1940-05-10,Germany invades France and the Low Countries,Europe,turning_point,defeat,Blitzkrieg in the West
+1940-06-04,Dunkirk evacuation completed,Europe,battle,mixed,Deliverance amid retreat
+1940-06-22,France signs armistice with Germany,Europe,turning_point,defeat,Fall of France
+1940-09-07,The Blitz begins over London,Europe,battle,defeat,Sustained bombing of British cities
+1940-10-31,Battle of Britain ends in RAF victory,Europe,turning_point,victory,Luftwaffe fails to gain air superiority
+1941-03-11,Lend-Lease Act signed,Diplomatic,political,context,US materiel support to the Allies
+1941-06-22,Germany invades the Soviet Union,Eastern Front,turning_point,mixed,Operation Barbarossa opens the Eastern Front
+1941-12-07,Attack on Pearl Harbor,Pacific,turning_point,defeat,US naval losses in Hawaii
+1941-12-08,United States declares war on Japan,Diplomatic,political,context,US enters the war
+1941-12-11,Germany and Italy declare war on the United States,Diplomatic,political,context,War becomes fully global
+1942-02-15,Fall of Singapore,Pacific,battle,defeat,Large British surrender to Japan
+1942-06-07,Battle of Midway,Pacific,turning_point,victory,Decisive US naval victory
+1942-08-07,Guadalcanal campaign begins,Pacific,battle,victory,First major US Pacific offensive
+1942-11-08,Operation Torch landings,North Africa,battle,victory,Allied landings in Northwest Africa
+1942-11-11,Second Battle of El Alamein ends,North Africa,turning_point,victory,British breakthrough in Egypt
+1943-02-02,German surrender at Stalingrad,Eastern Front,turning_point,victory,Major German defeat in the East
+1943-05-13,Axis surrender in Tunisia,North Africa,battle,victory,North African campaign ends
+1943-07-10,Allied invasion of Sicily,Europe,battle,victory,Operation Husky
+1943-09-08,Italy announces armistice,Europe,turning_point,victory,Italy exits the Axis
+1943-12-01,Tehran Conference concludes,Diplomatic,political,context,Allied leaders coordinate strategy
+1944-06-06,D-Day Normandy landings,Europe,turning_point,victory,Western Front opens
+1944-08-25,Liberation of Paris,Europe,battle,victory,Paris freed from occupation
+1944-09-25,Operation Market Garden fails,Europe,battle,defeat,Failed Allied offensive in the Netherlands
+1944-10-20,US forces land at Leyte,Pacific,battle,victory,Return to the Philippines
+1944-12-16,Battle of the Bulge begins,Europe,turning_point,defeat,Last major German offensive in the West
+1945-02-11,Yalta Conference concludes,Diplomatic,political,context,Postwar order negotiated
+1945-02-19,Battle of Iwo Jima begins,Pacific,battle,victory,Costly US amphibious assault
+1945-04-01,Battle of Okinawa begins,Pacific,battle,victory,Final major Pacific island battle
+1945-04-12,President Roosevelt dies,Diplomatic,political,context,Truman assumes the presidency
+1945-04-30,Hitler dies in Berlin,Europe,turning_point,victory,Nazi leadership collapses
+1945-05-08,Victory in Europe Day,Europe,turning_point,victory,Germany surrenders unconditionally
+1945-08-06,Atomic bomb dropped on Hiroshima,Pacific,turning_point,victory,First atomic weapon used in war
+1945-08-09,Atomic bomb dropped on Nagasaki,Pacific,turning_point,victory,Second atomic bombing
+1945-08-15,Victory over Japan Day,Pacific,turning_point,victory,Japan surrenders and the war ends
